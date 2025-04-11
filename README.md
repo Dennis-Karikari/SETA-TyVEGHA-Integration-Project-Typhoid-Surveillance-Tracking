@@ -23,7 +23,7 @@ This is a **combined project** integrating:
 - **SETA**: Surveillance of typhoid patients who present with fever at hospital facilities.
 - **TyVEGHA**: A baseline census exercise to collect demographic information and generate unique **TyVEGHA IDs** for tracking participants.
 
-When a participant presents with a fever (temperature > 36.9°C), they are enrolled in SETA. If their **TyVEGHA ID** is available, the participant is linked back to their household and demographic details. This creates a bridge between clinical and community data, enabling effective tracking and spatial analysis.
+When a participant presents with a fever (temperature >= 37.0°C), they are enrolled in SETA. If their **TyVEGHA ID** is available, the participant is linked back to their household and demographic details. This creates a bridge between clinical and community data, enabling effective tracking and spatial analysis.
 
 ## 🧠 How It Works
 
