@@ -68,7 +68,7 @@ This project is a collaboration between:
 Below are visual insights from the monitoring dashboard, showing enrollment and linkage data for each town in the Asante Akim North District:
 
 🔹 Agogo
-![Agogo dashboard](dashboardscreenshots/agogo.png)
+![Agogo dashboard](Dashboard Screenshots/agogo.png)
 
 🔹 Ananekrom
 
