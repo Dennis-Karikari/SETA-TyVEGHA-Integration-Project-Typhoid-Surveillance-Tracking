@@ -63,5 +63,43 @@ This project is a collaboration between:
 
 ---
 
+
+📸 Dashboard Screenshots by Town
+Below are visual insights from the monitoring dashboard, showing enrollment and linkage data for each town in the Asante Akim North District:
+
+🔹 Agogo
+
+🔹 Ananekrom
+
+🔹 Pekyerekye
+
+🔹 Nyinamponase
+
+🔹 Behwe
+
+🔹 Dawreso
+
+🔹 Amantena
+
+🔹 Akutuase
+
+🔹 Wioso
+
+🔹 Juansa
+
+🔹 Domeabra
+
+🔹 Magyeda
+
+🔹 Pataban
+
+🔹 Adinkra
+
+🔹 Adiemra
+
+🔹 Hwidiem
+
+🔹 Asenkyem
+
 📌 **Note:** This repository may contain documentation, analysis scripts, visualizations, and tools for managing and analyzing the linkage between SETA and TyVEGHA data. No personal identifying data is included.
 
