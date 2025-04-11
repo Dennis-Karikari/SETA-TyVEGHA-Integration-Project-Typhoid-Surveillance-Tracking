@@ -71,36 +71,52 @@ Below are visual insights from the monitoring dashboard, showing enrollment and 
 ![Agogo dashboard](Dashboard/Agogo.png)
 
 🔹 Ananekrom
+![Ananekrom dashboard](Dashboard/Ananekrom.png)
 
 🔹 Pekyerekye
+![PEK dashboard](Dashboard/Pekyerekye.png)
 
 🔹 Nyinamponase
+![NYI dashboard](Dashboard/Nyinamponase.png)
 
 🔹 Behwe
+![BEH dashboard](Dashboard/Behwe.png)
 
 🔹 Dawreso
+![DAW dashboard](Dashboard/Dawreso.png)
 
 🔹 Amantena
+![AMA dashboard](Dashboard/Amantena.png)
 
 🔹 Akutuase
+![AKU dashboard](Dashboard/Akutuase.png)
 
 🔹 Wioso
+![WIO dashboard](Dashboard/Wioso.png)
 
 🔹 Juansa
+![JUA dashboard](Dashboard/Juansa.png)
 
 🔹 Domeabra
+![DOM dashboard](Dashboard/Domeabra.png)
 
 🔹 Magyeda
+![MAG dashboard](Dashboard/Magyeda.png)
 
 🔹 Pataban
+![PAT dashboard](Dashboard/Pataban.png)
 
 🔹 Adinkra
+![ADIN dashboard](Dashboard/Adinkra.png)
 
 🔹 Adiemra
+![ADI dashboard](Dashboard/Adiembra.png)
 
 🔹 Hwidiem
+![HWI dashboard](Dashboard/Hwidiem.png)
 
 🔹 Asenkyem
+![ASENK dashboard](Dashboard/Asenkyem.png)
 
 📌 **Note:** This repository may contain documentation, analysis scripts, visualizations, and tools for managing and analyzing the linkage between SETA and TyVEGHA data. No personal identifying data is included.
 
